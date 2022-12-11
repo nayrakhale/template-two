@@ -7,6 +7,8 @@ margin: 0;
   -moz-box-sizing: border-box;
 
 }
-
+html {
+    scroll-behavior: smooth;
+  }
 
 /* end Global Rules */
