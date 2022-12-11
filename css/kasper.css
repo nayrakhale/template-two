@@ -15,5 +15,8 @@ html {
 
     
   }
-  
+  ul{
+    list-style: none;
+  }
+
 /* end Global Rules */
