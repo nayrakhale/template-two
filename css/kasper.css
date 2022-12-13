@@ -35,12 +35,7 @@ html {
     .container {
       width: 970px;
     }
-  }
-  /* Large */
-  @media (min-width: 1200px) {
-    .container {
-      width: 1170px;
-    }}
+    }
 /* end Global Rules */
 
 
@@ -53,7 +48,16 @@ header .container{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  border-bottom: 4px solid white;
+ 
+}
+header .container::after{
+  content :"";
+  position: absolute;
+  height: 1px;
+  background-color: #a2a2a2;
+  bottom: 0;
+  width: calc(100% - 30px);
+  left: 15px;
 }
 
 
