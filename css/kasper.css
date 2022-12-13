@@ -59,6 +59,16 @@ header .container::after{
   width: calc(100% - 30px);
   left: 15px;
 }
+header .logo img {
+  header: 40px;
+
+}
+header nav{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
 
 
 /*end header*/
