@@ -1,3 +1,10 @@
+/*  start variables*/
+:root{
+  --main-color:#19c8fa;
+}
+
+/*  end variables*/
+
 /* Start Global Rules */
 *{
 box-sizing: border-box;
@@ -84,5 +91,9 @@ header nav ul li a {
 
 }
 
+header nav ul li a.active,
+header nav ul li a:hover{
+color: var(--main-color);
 
+}
 /*end header*/
