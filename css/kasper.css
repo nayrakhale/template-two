@@ -153,5 +153,12 @@ header nav .form i{
   background-size: cover;
   position: relative;
 }
-.landing .overlay{}
+.landing .overlay{
+  position: absolute;
+  left: 0;
+  top:0;
+  width:100%;
+  height: 100%;
+
+}
 /*end landing*/
