@@ -82,17 +82,21 @@ header nav .toggle-menu{
 }
 @media ( min-width:768px){
   header nav .toggle-menu
-}
 header nav ul {
   display:flex ;
 
-}
+}}
 @media (max-width: 767px) {
   header nav ul {
     display: none;
   }
  header nav .toggle-menu:hover +ul{
 display: flex;
+flex-direction: column;
+position:absolute;
+top:100%;
+left:0;
+width:100%;
 
  } }
 
@@ -132,5 +136,6 @@ header nav .form i{
   right: 0;
 
 }
+
 
 /*end header*/
