@@ -60,9 +60,9 @@ header .container{
 header .container::after{
   content :"";
   position: absolute;
-  height: 1px;
+  height: 0;
   background-color: #a2a2a2;
-  bottom: -1;
+  bottom: 0;
   width: calc(100% - 30px);
   left: 15px;
 }
@@ -87,7 +87,8 @@ header nav ul li a {
   font-size: 14px;
   transition: 0.3s;
   padding: 40px 10px ;
-  
+  position: relative;
+  z-index: 2;
 
 }
 
@@ -97,5 +98,10 @@ color: var(--main-color);
 border-bottom:  1px solid var(--main-color);
 
 
+}
+header nav .form{
+  width: 40px;
+  height: 30px;
+  position: relative;
 }
 /*end header*/
