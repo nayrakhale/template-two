@@ -103,5 +103,8 @@ header nav .form{
   width: 40px;
   height: 30px;
   position: relative;
+  margin-left: 30px;
+  border-left:1px solid white ;
+  
 }
 /*end header*/
