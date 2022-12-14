@@ -203,4 +203,13 @@ margin-bottom: 20px;
 .landing .fa-angle-right {
   right: 30px;
 }
+.landing .bullets{
+
+}
+.landing .bullets li{
+
+}
+.landing .bullets li.active{
+  
+}
 /*end landing*/
