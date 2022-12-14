@@ -196,4 +196,11 @@ margin-bottom: 20px;
   color: #ddd;
 
 }
+
+.landing .fa-angle-left {
+  lift: 30px;
+}
+.landing .fa-angle-right {
+  right: 30px;
+}
 /*end landing*/
