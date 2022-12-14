@@ -191,7 +191,9 @@ margin-bottom: 20px;
 }
 .landing .change-background{
   position:absolute;
-  
+  top:50%;
+  transform: translateY(-50%);
+  color: #ddd;
 
 }
 /*end landing*/
