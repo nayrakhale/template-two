@@ -55,7 +55,7 @@ header .container{
   justify-content: space-between;
   align-items: center;
   position: relative;
- 
+ min: height 97px; 
 }
 header .container::after{
   content :"";
@@ -87,6 +87,15 @@ header nav ul {
   display:flex ;
 
 }
+@media (max-width: 767px) {
+  header nav ul {
+    display: none;
+  }
+ header nav .toggle-menu:hover +ul{
+display: flex;
+
+ } }
+
 header nav ul li a {
   display: block;
   color:white;
