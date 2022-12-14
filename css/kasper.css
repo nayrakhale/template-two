@@ -204,12 +204,12 @@ margin-bottom: 20px;
   right: 30px;
 }
 .landing .bullets{
-
+position:absolute ;
 }
 .landing .bullets li{
 
 }
 .landing .bullets li.active{
-  
+
 }
 /*end landing*/
