@@ -180,6 +180,8 @@ background-color: rgb(0 0 0 /60%);
 }
 .landing .text .content h2{
 font-size: 32 ;
+font-weight: normal;
+line-height: 1,5;
 
 }
 .landing .text .content p{
