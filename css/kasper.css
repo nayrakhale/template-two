@@ -329,4 +329,8 @@ color:#777;
   display: flex;
   align-items: center;
 }
+.design ::before{
+content:"" ;
+}
+
 /* end Design */
