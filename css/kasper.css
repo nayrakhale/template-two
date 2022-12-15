@@ -297,7 +297,8 @@ display: flex;
 margin-right: 50px;
 }
 .services .srv-box h3{
-
+margin-bottom:30px;
+color: var(--main-color)
 }
 .services .srv-box p{
 
