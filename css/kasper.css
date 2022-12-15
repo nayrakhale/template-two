@@ -349,6 +349,11 @@ color:#777;
   text-align: center;
 
 }
+@media(max-width:767px){
+  .design .image{
+    display: none;
+  }
+}
 .design .image img{
   position: relative;
   bottom: -100px;
