@@ -177,10 +177,16 @@ background-color: rgb(0 0 0 /60%);
 @media (max-width:767px){
   .landing .text{
     width: 100%;
+
   }
 }
 .landing .text .content{
   max-width: 500px;
+}
+@media(max-width:767px){
+  .landing .text .content{
+    width: 100%;
+  }
 }
 .landing .text .content h2{
 font-size: 32 ;
