@@ -388,5 +388,8 @@ color:#777;
   padding-top: var(--section-padding) ;
   padding-bottom: var(--section-padding);
 }
-
+.porotofolio .shuffle{
+  display: flex;
+  justify-content: center;
+}
 /* end Portfolio */
