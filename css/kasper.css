@@ -287,4 +287,20 @@ border-color: var(--main-color) ;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
+.services .services-container {
+
+}
+.services .srv-box {
+
+}
+.services .srv-box i {
+
+}
+.services .srv-box h3{
+
+}
+.services .srv-box p{
+  
+}
+
 /*end services*/
