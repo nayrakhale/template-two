@@ -358,5 +358,11 @@ color:#777;
   color: white;
   padding: 50px;
   background-color: var(--transparent-color);
+
 }
+.design .text h2{
+  
+}
+.design .text ul li{}
+.design .text ul li::before{}
 /* end Design */
