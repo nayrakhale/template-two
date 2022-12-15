@@ -59,6 +59,11 @@ text-transform: uppercase;
 content: '';
 position: absolute;
 left:50%;
+transform: translateX(-50%);
+height:2px;
+background-color: #333;
+bottom: -30px;
+width:120px;
 }
 .main-heading h2::after {
   content: '';
