@@ -300,6 +300,7 @@ margin-right: 50px;
   .services .srv-box{
     display:flex;
     flex-direction: column;
+    text-align: center;
   }
 }
 .services .srv-box h3{
