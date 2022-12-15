@@ -67,6 +67,9 @@ width:120px;
 }
 .main-heading h2::after {
   content: '';
+  position: absolute;
+left:50%;
+transform: translateX(-50%);
 }
 .main-heading p {
 
