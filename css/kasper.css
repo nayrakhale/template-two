@@ -45,7 +45,27 @@ html {
     }
     }
 /* end Global Rules */
+/*start combonets*/
+.main-heading {
+text-align: center;
+}
+.main-heading h2 {
+  font-weight: normal;
+font-size: 40px;
+margin: bottom 70px; ;
+}
+.main-heading h2::before {
+content: '';
+}
+.main-heading h2::after {
+  content: '';
+}
+.main-heading p {
 
+}
+
+
+/*end combonets*/
 
 /*start header*/ 
 header{
