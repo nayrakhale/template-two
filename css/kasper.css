@@ -347,6 +347,11 @@ color:#777;
 }
 .design .image{
   text-align: center;
+
+}
+.design .image img{
+  position: relative;
+  bottom: -100px;
   
 }
 /* end Design */
