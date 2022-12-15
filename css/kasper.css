@@ -319,4 +319,8 @@ color:#777;
 
 /*end services*/
 /* Start Design */
+.design{
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+}
 /* end Design */
