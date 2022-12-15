@@ -206,6 +206,11 @@ margin-bottom: 20px;
   color: #ddd;
 
 }
+@media (max-width:767px){
+  .landing .change-background{
+    display:none
+  }
+}
 
 .landing .fa-angle-left {
   lift: 30px;
