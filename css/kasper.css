@@ -280,9 +280,12 @@ border-color: var(--main-color) ;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
-.services .services-container {
-
+@media(min-width:768){
+  .services .services-container {
+display: grid;
+  }
 }
+
 .services .srv-box {
 display: flex;
 }
