@@ -396,5 +396,8 @@ color:#777;
   padding:10px ;
   
 }
-
+.porotofolio .shuffle li .active{
+  background-color: var(--main-color);
+  color: white;
+}
 /* end Portfolio */
