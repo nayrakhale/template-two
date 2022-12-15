@@ -291,16 +291,16 @@ border-color: var(--main-color) ;
 
 }
 .services .srv-box {
-
+display: flex;
 }
 .services .srv-box i {
-
+margin-right: 50px;
 }
 .services .srv-box h3{
 
 }
 .services .srv-box p{
-  
+
 }
 
 /*end services*/
