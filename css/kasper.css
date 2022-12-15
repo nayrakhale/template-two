@@ -373,5 +373,8 @@ color:#777;
   font-family: 'Font Awesome 5 free';
   content:'\f108';
   font-weight: 900;
+  margin-right: 20px;
+  position:relative;
+  top: 1px;
 }
 /* end Design */
