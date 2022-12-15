@@ -366,6 +366,8 @@ color:#777;
   margin-bottom: 40px;
   
 }
-.design .text ul li{}
+.design .text ul li{
+  padding: 15 px 0;
+}
 .design .text ul li::before{}
 /* end Design */
