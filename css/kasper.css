@@ -392,4 +392,9 @@ color:#777;
   display: flex;
   justify-content: center;
 }
+.porotofolio .shuffle li{
+  padding:10px ;
+  
+}
+
 /* end Portfolio */
