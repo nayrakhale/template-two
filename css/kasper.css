@@ -400,4 +400,14 @@ color:#777;
   background-color: var(--main-color);
   color: white;
 }
+.porotofolio .imgs-container{
+
+}
+.porotofolio .imgs-container .box{
+  
+}
+.porotofolio .imgs-container .box img {
+  max-width: 100%;
+}
+
 /* end Portfolio */
