@@ -566,12 +566,12 @@ background-color: var(--transparent-color);
     }
   }
   .stats.container .box i{
-
+width: 40px;
   }
   .stats.container .box .number{
 
   }
   .stats.container .box p{
-    
+
   }
 /* end Stats */
