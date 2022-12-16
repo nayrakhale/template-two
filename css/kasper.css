@@ -456,4 +456,10 @@ color:#777;
 }
 /* end Portfolio */
 /* Start Video */
+.video{
+position: relative;
+}
+.video::before{
+  
+}
 /* end Video */
