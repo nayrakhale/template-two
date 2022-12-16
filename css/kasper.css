@@ -498,5 +498,6 @@ text-align: center;
   color:white ;
   padding: 10px 20px ;
   border: none;
+text-transform: uppercase;
 }
 /* end Video */
