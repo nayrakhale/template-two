@@ -555,4 +555,8 @@ background-color: var(--transparent-color);
       flex-basis: 100%;
     }
   }
+  @media(min-width:768px){
+    
+  }
+  
 /* end Stats */
