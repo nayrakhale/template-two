@@ -444,5 +444,7 @@ bottom: -100;
 font-weight: normal;
 margin-bottom: 10px;
 }
-.porotofolio .imgs-container .box .caption p{}
+.porotofolio .imgs-container .box .caption p{
+  color: var(--main-color);
+}
 /* end Portfolio */
