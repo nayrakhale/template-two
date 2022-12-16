@@ -693,5 +693,6 @@ margin-bottom: 40px;
    content: "";
    position: absolute;
    border-style: solid;
+   border-width: 8px;
 }
 /* end Skills */
