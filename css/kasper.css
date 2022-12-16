@@ -528,7 +528,7 @@ text-align: center;
 text-align: center;
 background-image: url("../images/stats.png");
 background-size: cover;
-
+position: relative;
 }
   
   
