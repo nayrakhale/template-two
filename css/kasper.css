@@ -656,5 +656,6 @@ margin-bottom: 10px ;
 }
 .our-skills .testimonials .bullets li.active {
   background-color: var(--main-color);
+  border-color: var(--main-color);
 }
 /* end Skills */
