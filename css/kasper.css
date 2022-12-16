@@ -451,6 +451,8 @@ margin-bottom: 10px;
   background-color:var(--main-color) ;
   color: white;
   padding: 35px 20px;
+  display: block;
+  width: fit-content;
 
 }
 /* end Portfolio */
