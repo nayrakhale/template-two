@@ -570,6 +570,7 @@ width: 40px;
 height: 40px;
 display: flex;
 background-color: black;
+justify-content: center;
   }
   .stats.container .box .number{
 
