@@ -547,5 +547,6 @@ flex-wrap: wrap;
   }
   .stats.container .box {
 color: white;
+padding: 50px;
   }
 /* end Stats */
