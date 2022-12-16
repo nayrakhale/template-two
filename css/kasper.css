@@ -572,7 +572,7 @@ display: flex;
 background-color: black;
 justify-content: center;
 align-items: center;
-
+border-radius: 50%;
   }
   .stats.container .box .number{
 
