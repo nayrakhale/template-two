@@ -651,5 +651,6 @@ margin-bottom: 10px ;
   width: 14px;
   height: 14px;
   border: 1px solid #aaa;
+  border-radius: 50%;
 }
 /* end Skills */
