@@ -614,7 +614,7 @@ text-transform: uppercase;
 
 }
 .our-skills .testimonials .content img{
-
+width: 100px;
 }
 @media(max-width:767px)
 {.our-skills .testimonials .content{
