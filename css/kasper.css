@@ -621,7 +621,7 @@ margin-right: 50px ;
 }
 @media(max-width:767px)
 {.our-skills .testimonials .content{
-
+flex-direction:column;
 }
 .our-skills .testimonials .content img{
   
