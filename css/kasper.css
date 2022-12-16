@@ -586,6 +586,7 @@ text-align: center;
 /* end Stats */
 /* Start Skills */
 .our-skills{
-  
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 /* end Skills */
