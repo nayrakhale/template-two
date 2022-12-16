@@ -613,6 +613,7 @@ text-transform: uppercase;
 .our-skills .testimonials .content{
 display: flex;
 margin-bottom: 30px ;
+align-items: center;
 }
 .our-skills .testimonials .content img{
 width: 100px;
