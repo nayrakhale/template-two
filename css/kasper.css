@@ -672,5 +672,11 @@ margin-bottom: 10px ;
 }
 .our-skills .skills .prog-holder .prog span{
    
+} 
+.our-skills .skills .prog-holder .prog span::before{
+   
+}
+.our-skills .skills .prog-holder .prog span::after{
+   
 }
 /* end Skills */
