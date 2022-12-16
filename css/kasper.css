@@ -449,6 +449,7 @@ margin-bottom: 10px;
 }
 .porotofolio .more{
   background-color:var(--main-color) ;
+  color: white;
 
 }
 /* end Portfolio */
