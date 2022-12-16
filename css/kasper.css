@@ -530,6 +530,8 @@ background-image: url("../images/stats.png");
 background-size: cover;
 position: relative;
 }
-  
+  .stats::before{
+    
+  }
   
 /* end Stats */
