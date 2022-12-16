@@ -408,7 +408,12 @@ margin-top:  60px;
 }
 
 .porotofolio .imgs-container .box{
-  max-width: 100%;
+  
+  overflow: hidden;
+ position: relative;
+}
+.portfolio .imgs-container .box:hover .caption {
+  bottom: 0;
 }
 @media (min-width: 768px) {
   .portfolio .imgs-container .box {
@@ -416,12 +421,11 @@ margin-top:  60px;
   }
 }
 @media (min-width: 1199px) {
-  .portfolio .imgs-container .box {
+   {
     flex-basis: 25%;
   }}
 .porotofolio .imgs-container .box img {
- overflow: hidden;
- position: relative;
+  max-width: 100%;
 }
 .porotofolio .imgs-container .box .caption{
   position: absolute;
