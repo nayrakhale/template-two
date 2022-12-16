@@ -612,6 +612,7 @@ text-transform: uppercase;
 }
 .our-skills .testimonials .content{
 display: flex;
+margin-bottom: ;
 }
 .our-skills .testimonials .content img{
 width: 100px;
