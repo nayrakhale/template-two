@@ -625,8 +625,15 @@ flex-direction:column;
 text-align: center;
 }
 .our-skills .testimonials .content img{
-  margin: 0 auto;
+  margin: 0 auto 20px;
+
 }
+
+}
+.our-skills .testimonials .text{
+
+}
+.our-skills .testimonials .text p{
 
 }
 /* end Skills */
