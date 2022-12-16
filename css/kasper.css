@@ -250,7 +250,7 @@ margin-bottom: 20px;
 }
 
 .landing .fa-angle-left {
-  lift: 30px;
+  left: 30px;
 }
 .landing .fa-angle-right {
   right: 30px;
@@ -405,11 +405,24 @@ display: flex;
 flex-wrap: wrap;
 margin-top:  60px; 
 }
+
 .porotofolio .imgs-container .box{
   
+}
+@media(min-width:768px){
+  .porotofolio .imgs-container .box{
+flex-basis: 50% ;
+  }
+}
+@media(min-width:1199px){
+  .porotofolio .imgs-container .box{
+flex-basis: 25% ;
+  }
 }
 .porotofolio .imgs-container .box img {
   max-width: 100%;
 }
-
+.porotofolio .imgs-container .box .caption{
+  position: absolute;
+}
 /* end Portfolio */
