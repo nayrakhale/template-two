@@ -415,6 +415,9 @@ margin-top:  60px;
 .portfolio .imgs-container .box:hover .caption {
   bottom: 0;
 }
+.portfolio .imgs-container .box:hover img {
+  transform: rotate(3deg) scale(1.1);
+}
 @media (min-width: 768px) {
   .portfolio .imgs-container .box {
     flex-basis: 50%;
@@ -437,4 +440,8 @@ width: 100%;
 transition: 0,3s;
 bottom: -100;
 }
+.porotofolio .imgs-container .box .caption h4{
+
+}
+.porotofolio .imgs-container .box .caption p{}
 /* end Portfolio */
