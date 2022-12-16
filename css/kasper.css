@@ -552,7 +552,7 @@ background-color: var(--transparent-color);
   }
   @media(max-width:767px){
     .stats.container .box{
-      
+      flex-basis: 100%;
     }
   }
 /* end Stats */
