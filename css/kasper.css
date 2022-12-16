@@ -643,5 +643,6 @@ margin-bottom: 10px ;
 }
 .our-skills .testimonials .bullets{
   display: flex;
+  justify-content: center;
 }
 /* end Skills */
