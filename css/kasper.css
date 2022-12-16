@@ -608,5 +608,6 @@ text-transform: uppercase;
 .our-skills .container > div >p{
    color:#777;
    text-align: center;
+   margin-bottom: 50px;
 }
 /* end Skills */
