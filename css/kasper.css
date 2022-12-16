@@ -526,7 +526,9 @@ text-align: center;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 text-align: center;
-background-image: url("../images/stats.png");;
+background-image: url("../images/stats.png");
+background-size: cover;
+
 }
   
   
