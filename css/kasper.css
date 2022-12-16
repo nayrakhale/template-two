@@ -508,6 +508,6 @@ overflow: hidden;
 text-align: center;
 }
 .about .img{
-  
+  position:relative ;
 }
 /*end About */
