@@ -486,6 +486,7 @@ text-align: center;
 }
 .video .text h2{
   margin:0 0 20px;
+  text-transform: uppercase;
 }
 .video .text p{
   
