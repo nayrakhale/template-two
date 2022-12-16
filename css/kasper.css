@@ -550,4 +550,9 @@ color: white;
 padding: 50px;
 background-color: var(--transparent-color);
   }
+  @media(max-width:767px){
+    .stats.container .box{
+      
+    }
+  }
 /* end Stats */
