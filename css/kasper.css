@@ -524,5 +524,8 @@ text-align: center;
 
 .stats{
   padding-top: var(--section-padding);
-  padding-bottom: var(--section-padding);}
+  padding-bottom: var(--section-padding);
+text-align: center;}
+  
+  
 /* end Stats */
