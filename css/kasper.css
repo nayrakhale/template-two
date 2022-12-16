@@ -591,6 +591,7 @@ text-align: center;
 }
 .our-skills.container{
 display: flex;
+justify-content: space-between;
 }
 @media(min-width:992px){
   .our-skills.container > div{
