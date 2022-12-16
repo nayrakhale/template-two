@@ -666,15 +666,14 @@ margin-bottom: 40px;
   font-weight: normal;
   text-transform: uppercase;
 }
-.our-skills .skills .prog-holder p {
+
+.our-skills .skills .prog-holder .prog{
   background-color: #dedadc;
   height: 30px;
 }
-.our-skills .skills .prog-holder .prog{
-
-}
 .our-skills .skills .prog-holder .prog span{
-   
+   display: block;
+
 } 
 .our-skills .skills .prog-holder .prog span::before{
    content: "";
