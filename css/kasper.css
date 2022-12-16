@@ -578,6 +578,7 @@ margin:0 auto 30px ;
   .stats.container .box .number{
 font-size: 40px;
 font-weight: bold;
+margin: 0 0 20px;
   }
   .stats.container .box p{
 
