@@ -585,19 +585,18 @@ text-align: center;
 
 /* end Stats */
 /* Start Skills */
-.our-skills{
+.our-skills {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
-.our-skills.container{
-display: flex;
-justify-content: space-between;
-flex-wrap: wrap;
+.our-skills .container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-@media(min-width:992px){
-  .our-skills.container > div{
-flex-basis:45% ;
-
+@media (min-width: 992px) {
+  .our-skills .container > div {
+    flex-basis: 45%;
   }
 }
 /* end Skills */
