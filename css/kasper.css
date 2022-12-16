@@ -496,6 +496,6 @@ text-align: center;
 .video .text button{
   background-color: black;
   color:white ;
-  
+  padding: 10px 20px ;
 }
 /* end Video */
