@@ -502,5 +502,9 @@ text-transform: uppercase;
 }
 /* end Video */
 /* Start About */
+.about{
+padding: var(--section-padding) ;
+overflow: hidden;
 
+}
 /*end About */
