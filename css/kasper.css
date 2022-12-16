@@ -678,7 +678,8 @@ margin-bottom: 40px;
    position: relative;
 } 
 .our-skills .skills .prog-holder .prog span::before{
-   content: "";
+  content: attr(data-progress);
+  
 }
 .our-skills .skills .prog-holder .prog span::after{
    content: "";
