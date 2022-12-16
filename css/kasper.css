@@ -420,7 +420,8 @@ margin-top:  60px;
     flex-basis: 25%;
   }}
 .porotofolio .imgs-container .box img {
-  max-width: 100%;
+ overflow: hidden;
+ position: relative;
 }
 .porotofolio .imgs-container .box .caption{
   position: absolute;
