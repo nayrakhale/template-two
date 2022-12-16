@@ -681,6 +681,7 @@ margin-bottom: 40px;
   content: attr(data-progress);
   position: absolute;
   background-color: black;
+  color: white;
 }
 .our-skills .skills .prog-holder .prog span::after{
    content: "";
