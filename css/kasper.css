@@ -560,5 +560,7 @@ background-color: var(--transparent-color);
       flex-basis: 50%;
     }
   }
-  
+  @media(min-width: 991px){
+   
+  }
 /* end Stats */
