@@ -470,9 +470,12 @@ position: relative;
 }
 .video video{
 width: 100%;
+
+
 }
 .video .text{
-
+width: 100%;
+position: absolute;
 }
 .video .text h2{
   
