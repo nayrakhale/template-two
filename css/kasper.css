@@ -565,4 +565,13 @@ background-color: var(--transparent-color);
       flex-basis: 25%;
     }
   }
+  .stats.container .box i{
+
+  }
+  .stats.container .box .number{
+
+  }
+  .stats.container .box p{
+    
+  }
 /* end Stats */
