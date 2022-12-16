@@ -684,6 +684,7 @@ margin-bottom: 40px;
   color: white;
   top: -40px;
   right: -18px;
+  padding: 4px 0;
 }
 .our-skills .skills .prog-holder .prog span::after{
    content: "";
