@@ -505,6 +505,6 @@ text-transform: uppercase;
 .about{
 padding: var(--section-padding) ;
 overflow: hidden;
-
+text-align: center;
 }
 /*end About */
