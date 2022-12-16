@@ -531,7 +531,9 @@ background-size: cover;
 position: relative;
 }
   .stats::before{
-    
+    content: "";
+    position: absolute;
+   
   }
   
 /* end Stats */
