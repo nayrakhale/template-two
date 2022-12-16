@@ -561,6 +561,8 @@ background-color: var(--transparent-color);
     }
   }
   @media(min-width: 991px){
-   
+    .stats.container .box{
+      flex-basis: 25%;
+    }
   }
 /* end Stats */
