@@ -548,5 +548,6 @@ flex-wrap: wrap;
   .stats.container .box {
 color: white;
 padding: 50px;
+background-color: var(--transparent-color);
   }
 /* end Stats */
