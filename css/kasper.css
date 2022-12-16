@@ -542,6 +542,7 @@ position: relative;
   }
   .stats .container{
 position: relative;
+display: flex;
   }
   .stats.container .box {
 
