@@ -616,6 +616,7 @@ text-transform: uppercase;
 .our-skills .testimonials .content img{
 width: 100px;
 border-radius: 50%;
+margin-right: 50px ;
 }
 @media(max-width:767px)
 {.our-skills .testimonials .content{
