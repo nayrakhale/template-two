@@ -846,6 +846,6 @@ color:white;
 .subscribe form i {
   position: absolute;
   top: 50%;
-  transform: ;
+  transform:translateY(-50%) ;
 }
 /* end Subscribe */
