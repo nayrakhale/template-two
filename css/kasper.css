@@ -864,5 +864,6 @@ subscribe form input[type="submit"] {
   padding: 10px 20px;
   border: 1px solid white;
   border-left: none;
+  text-transform: uppercase;
 }
 /* end Subscribe */
