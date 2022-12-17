@@ -844,6 +844,8 @@ color:white;
   max-width :100%;
 }
 .subscribe form i {
-  position: ;
+  position: absolute;
+  top: 50%;
+  
 }
 /* end Subscribe */
