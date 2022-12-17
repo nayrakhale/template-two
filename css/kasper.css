@@ -832,4 +832,5 @@ color:white;
   display: flex;
   align-items:center;
 }
+@media (max-width: 991px) {}
 /* end Subscribe */
