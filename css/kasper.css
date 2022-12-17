@@ -712,6 +712,6 @@ margin-bottom: 40px;
   color: white;
 }
 .quote::before{
-  
+  content: "";
 }
 /* end Quote */
