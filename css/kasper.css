@@ -714,5 +714,6 @@ margin-bottom: 40px;
 .quote::before{
   content: "";
   position: absolute;
+  left: 0;
 }
 /* end Quote */
