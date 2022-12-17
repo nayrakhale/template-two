@@ -857,4 +857,7 @@ color:white;
   caret-color:var(--main-color);
   width: calc(100% - 130px);
 }
+subscribe form input[type="submit"] {
+  
+}
 /* end Subscribe */
