@@ -713,5 +713,6 @@ margin-bottom: 40px;
 }
 .quote::before{
   content: "";
+  position: absolute;
 }
 /* end Quote */
