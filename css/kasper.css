@@ -779,5 +779,6 @@ margin-bottom: 40px;
 .pricing .plans .plan ul li:not(:last-child)::after {
   content: "";
   width: 140px;
+  height: 1px;
 }
 /* end Pricing */
