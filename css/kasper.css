@@ -816,5 +816,6 @@ padding-bottom: var(--section-padding);
 background-image:url("../images/subscribe.jpg");
 background-size:cover;
 position:relative;
+color:;
 }
 /* end Subscribe */
