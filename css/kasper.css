@@ -829,6 +829,6 @@ color:white;
 }
 .subscribe .container{
   position: relative;
-  display: ;
+  display: flex;
 }
 /* end Subscribe */
