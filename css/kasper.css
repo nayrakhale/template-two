@@ -759,6 +759,7 @@ margin-bottom: 40px;
   content: "$";
   font-size: 25px;
   position: relative;
+  top: -40px;
 }
 .pricing .plans .plan .head span::after {
   content: "/Mo";
