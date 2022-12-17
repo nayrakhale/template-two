@@ -733,5 +733,7 @@ margin-bottom: 40px;
 .pricing {
   padding-top:var(--section-padding);
   padding-bottom: var(--section-padding);
+}.pricing .plans{
+  
 }
 /* end Pricing */
