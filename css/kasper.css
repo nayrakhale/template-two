@@ -726,5 +726,6 @@ margin-bottom: 40px;
 .quote q {
   font-size: 30px;
   margin-bottom:20 px;
+  display: block;
 }
 /* end Quote */
