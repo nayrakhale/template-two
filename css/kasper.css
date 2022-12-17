@@ -706,5 +706,6 @@ margin-bottom: 40px;
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   background-image: url("../images/quote.jpg");
+  background-size: cover;
 }
 /* end Quote */
