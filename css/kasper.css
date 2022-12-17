@@ -850,6 +850,6 @@ color:white;
   left: 25px;
 }
 .subscribe form input[type="email"]{
-  border: ;
+  border: 1px; ;
 }
 /* end Subscribe */
