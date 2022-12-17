@@ -731,6 +731,6 @@ margin-bottom: 40px;
 /* End Quote */
 /* Start Pricing */
 .pricing {
-  padding-top:
+  padding-top:var(--section-padding);
 }
 /* end Pricing */
