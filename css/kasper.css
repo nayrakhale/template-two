@@ -870,4 +870,7 @@ subscribe form input[type="submit"] {
 .subscribe form input[type="submit"]:focus {
   outline: none;
 }
+.subscribe form ::placeholder{
+  color: white;
+}
 /* end Subscribe */
