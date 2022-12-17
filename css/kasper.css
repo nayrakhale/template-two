@@ -735,5 +735,6 @@ margin-bottom: 40px;
   padding-bottom: var(--section-padding);
 }.pricing .plans{
   display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 /* end Pricing */
