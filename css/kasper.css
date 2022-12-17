@@ -742,5 +742,7 @@ margin-bottom: 40px;
   background-color: #fcfcfc;
   text-align: center;
 }
-.pricing .plans .plan .head {}
+.pricing .plans .plan .head {
+  padding: 40px 20px;
+}
 /* end Pricing */
