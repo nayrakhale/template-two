@@ -770,6 +770,6 @@ margin-bottom: 40px;
   right: -15px;
 }
 .pricing .plans .plan ul {
-  border-bottom:1px ;
+  border-bottom:1px  solid var(--main-color);
 }
 /* end Pricing */
