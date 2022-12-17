@@ -837,5 +837,7 @@ color:white;
     flex-direction: column;
   }
 }
-.subscribe form{}
+.subscribe form{
+  display:;
+}
 /* end Subscribe */
