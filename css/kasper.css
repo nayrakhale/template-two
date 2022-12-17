@@ -820,6 +820,6 @@ color:white;
 }
 .subscribe::before {
   content: "";
-  position: ;
+  position:absolute ;
 }
 /* end Subscribe */
