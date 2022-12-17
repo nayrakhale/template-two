@@ -689,6 +689,7 @@ margin-bottom: 40px;
   text-align: center;
   border-radius: 4px;
 }
+
 .our-skills .skills .prog-holder .prog span::after{
    content: "";
    position: absolute;
@@ -698,4 +699,5 @@ margin-bottom: 40px;
    right: -8px;
    top: -15px;
 }
+
 /* end Skills */
