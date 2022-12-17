@@ -813,6 +813,6 @@ margin-bottom: 40px;
 .subscribe {
 padding-top:var(--section-padding);
 padding-bottom: var(--section-padding);
-background-image:;
+background-image:url("../images/subscribe.jpg");
 }
 /* end Subscribe */
