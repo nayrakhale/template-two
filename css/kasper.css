@@ -708,5 +708,6 @@ margin-bottom: 40px;
   background-image: url("../images/quote.jpg");
   background-size: cover;
   position: relative;
+  text-align: center;
 }
 /* end Quote */
