@@ -851,6 +851,7 @@ color:white;
 }
 .subscribe form input[type="email"]{
   border: 1px solid white;
-  border-right:none
+  border-right:none;
+  background: none;
 }
 /* end Subscribe */
