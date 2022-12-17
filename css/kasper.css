@@ -753,5 +753,6 @@ margin-bottom: 40px;
 }
 .pricing .plans .plan .head span{
   font-size: 60px;
+  font-weight: bold;
 }
 /* end Pricing */
