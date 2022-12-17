@@ -758,6 +758,8 @@ margin-bottom: 40px;
 .pricing .plans .plan .head span::before {
   content: "$";
 }
-.pricing .plans .plan .head span::after {}
+.pricing .plans .plan .head span::after {
+  content: "/Mo";
+}
 
 /* end Pricing */
