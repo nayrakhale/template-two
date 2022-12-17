@@ -751,5 +751,7 @@ margin-bottom: 40px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
-.pricing .plans .plan .head span{}
+.pricing .plans .plan .head span{
+  font-size: 60px;
+}
 /* end Pricing */
