@@ -858,6 +858,6 @@ color:white;
   width: calc(100% - 130px);
 }
 subscribe form input[type="submit"] {
-  
+  width: 130px;
 }
 /* end Subscribe */
