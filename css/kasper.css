@@ -787,6 +787,7 @@ margin-bottom: 40px;
   bottom: 0;
 }
 .pricing .plans .plan .foot a {
+  display: block;
   
 }
 /* end Pricing */
