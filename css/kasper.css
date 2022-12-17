@@ -776,5 +776,7 @@ margin-bottom: 40px;
   padding: 20px;
   position: relative;
 }
-.pricing .plans .plan ul li:not(:last-child)::after {}
+.pricing .plans .plan ul li:not(:last-child)::after {
+  content: "";
+}
 /* end Pricing */
