@@ -811,5 +811,7 @@ margin-bottom: 40px;
 /* end Pricing */
 /* Start Subscribe */
 .subscribe {
-padding-top:var(--section-padding);}
+padding-top:var(--section-padding);
+padding-bottom: var(--section-padding);
+}
 /* end Subscribe */
