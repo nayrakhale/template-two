@@ -755,4 +755,9 @@ margin-bottom: 40px;
   font-size: 60px;
   font-weight: bold;
 }
+.pricing .plans .plan .head span::before {
+  content: "$";
+}
+.pricing .plans .plan .head span::after {}
+
 /* end Pricing */
