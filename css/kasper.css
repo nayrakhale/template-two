@@ -738,4 +738,5 @@ margin-bottom: 40px;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 30px;
 }
+.pricing .plans .plan {}
 /* end Pricing */
