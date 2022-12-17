@@ -704,5 +704,6 @@ margin-bottom: 40px;
 /* Start Quote */
 .quote{
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 /* end Quote */
