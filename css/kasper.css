@@ -744,7 +744,7 @@ margin-bottom: 40px;
 }
 .pricing .plans .plan .head {
   padding: 40px 20px;
-  border-top:1px ;
-  border-bottom:1px ;
+  border-top:1px solid ;
+  border-bottom:1px solid ;
 }
 /* end Pricing */
