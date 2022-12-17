@@ -702,4 +702,7 @@ margin-bottom: 40px;
 
 /* end Skills */
 /* Start Quote */
+.quote{
+  padding-top: var(--section-padding);
+}
 /* end Quote */
