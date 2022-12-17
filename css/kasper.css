@@ -803,6 +803,6 @@ margin-bottom: 40px;
   display: block;
   width:fit-content;
   margin:20px auto;
-  background-color:;
+  background-color:var(--main-color);
 }
 /* end Pricing */
