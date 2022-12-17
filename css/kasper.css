@@ -800,6 +800,7 @@ margin-bottom: 40px;
   font-size:20px;
 }
 .pricing .contact-link{
+  display: block;
   
 }
 /* end Pricing */
