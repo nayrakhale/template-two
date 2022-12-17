@@ -802,6 +802,6 @@ margin-bottom: 40px;
 .pricing .contact-link{
   display: block;
   width:fit-content;
-  margin:20px;
+  margin:20px auto;
 }
 /* end Pricing */
