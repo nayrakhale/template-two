@@ -740,5 +740,6 @@ margin-bottom: 40px;
 }
 .pricing .plans .plan {
   background-color: #fcfcfc;
+  text-align: center;
 }
 /* end Pricing */
