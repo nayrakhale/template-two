@@ -810,5 +810,6 @@ margin-bottom: 40px;
 }
 /* end Pricing */
 /* Start Subscribe */
-padding-top:;
+.subscribe {
+padding-top:var(--section-padding);}
 /* end Subscribe */
