@@ -721,6 +721,6 @@ margin-bottom: 40px;
   background-color: rgb(0 0 0 / 75%);
 }
 .quote .container{
-  
+  position: relative;
 }
 /* end Quote */
