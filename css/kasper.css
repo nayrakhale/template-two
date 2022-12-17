@@ -863,5 +863,6 @@ subscribe form input[type="submit"] {
   color: white;
   padding: 10px 20px;
   border: 1px solid white;
+  border-left: none;
 }
 /* end Subscribe */
