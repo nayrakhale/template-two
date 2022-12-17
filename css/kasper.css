@@ -854,6 +854,7 @@ color:white;
   border-right:none;
   background: none;
   padding:20px 20px 20px 60px ;
-  caret-color:var(--main-color)
+  caret-color:var(--main-color);
+  width: calc(100% - 130px);
 }
 /* end Subscribe */
