@@ -765,6 +765,7 @@ margin-bottom: 40px;
 }
 .pricing .plans .plan .head span::after {
   content: "/Mo";
+  font-size: 20px;
 }
 
 /* end Pricing */
