@@ -818,4 +818,7 @@ background-size:cover;
 position:relative;
 color:white;
 }
+.subscribe::before {
+  content: "";
+}
 /* end Subscribe */
