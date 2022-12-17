@@ -778,5 +778,6 @@ margin-bottom: 40px;
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
   content: "";
+  width: 140px;
 }
 /* end Pricing */
