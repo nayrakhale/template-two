@@ -723,5 +723,7 @@ margin-bottom: 40px;
 .quote .container{
   position: relative;
 }
-.quote q {}
+.quote q {
+  font-size: ;
+}
 /* end Quote */
